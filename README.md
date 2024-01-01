@@ -1,5 +1,24 @@
 # Oka-2-Hangup-Software
-This is Oka 2 Hangup Software
 
+自己编写的一个防掉线程序，欢迎免费使用！
 
-下载请跳转到以下链接：https://github.com/Xiaopei147/Oka-2-Hangup-Software/tags
+**声明:**
+- 每次执行间隔为5分钟
+- 打字内容: `hello, everyone!`
+
+如果需要输入其他文字，可进行私人定制，但请注意，私人定制是有偿的。
+
+**私人定制内容包括:**
+- 打字内容
+- 间隔时间
+- 程序logo
+
+如有需要定制，请联系QQ：2722537131
+
+**下载链接:** [Oka-2-Hangup-Software](https://github.com/Xiaopei147/Oka-2-Hangup-Software/tags)
+
+**注意:**
+- 该程序仅用于防止长时间挂机，系统可能会因为长时间不动而踢下线，但不能保证管理员不会踢出！谢谢理解！
+- 在打开程序之前，请先运行欧卡2游戏。
+- 双击运行程序，然后点击开始挂机按钮（请确保在点击后3秒内切换到欧卡页面）。
+- 程序将自动执行打字程序，每5分钟运行一次：`hello, everyone!`
